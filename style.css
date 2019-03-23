@@ -1,0 +1,45 @@
+body  {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background-image: url("crossline-dots.png");
+}
+
+h1  {
+  color: #4aaaa5;
+  border-bottom: 3px gray solid;
+  padding: 20px;
+  margin-top: 60px;
+  font-family: 'Georgia', Times, Times New Roman, serif
+}
+
+header  {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  background: white;
+}
+
+footer  {
+  text-align: center;
+  background: #666666;
+  border-top:  #4aaaa5 7px solid;
+  color: white;
+  padding: 25px;
+}
+
+.sectionFormat  {
+  border: 3px gray solid;
+  margin-top: 30px;
+  background: white;
+}
+
+
+.teal-bg  {
+  background-color: #4aaaa5;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.aboutmetext  {
+  font-size: 20px;
+  color: #777777;
+}
